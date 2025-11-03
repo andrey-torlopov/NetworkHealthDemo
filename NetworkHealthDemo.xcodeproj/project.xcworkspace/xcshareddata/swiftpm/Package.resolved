@@ -1,0 +1,42 @@
+{
+  "originHash" : "6e456e335de912fb4468f021191880fdefb0acd1310f11515a47f0fd35a8d692",
+  "pins" : [
+    {
+      "identity" : "letopis",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:andrey-torlopov/Letopis.git",
+      "state" : {
+        "revision" : "21d6d7218da4c01840d5bf2455d3a74379b009ab",
+        "version" : "0.0.10"
+      }
+    },
+    {
+      "identity" : "networkhealth",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:andrey-torlopov/NetworkHealth.git",
+      "state" : {
+        "revision" : "23222ecbd286e720afb76c08590877403f66f117",
+        "version" : "0.0.2"
+      }
+    },
+    {
+      "identity" : "nevod",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:andrey-torlopov/Nevod.git",
+      "state" : {
+        "revision" : "ce955ddbb5d8934a0a5e1777170d8295283de805",
+        "version" : "0.0.3"
+      }
+    },
+    {
+      "identity" : "speedtestcore",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:andrey-torlopov/SpeedTestCore.git",
+      "state" : {
+        "revision" : "26d29fd74fb69c9012b37d4deaecfdeffcad57ee",
+        "version" : "0.0.1"
+      }
+    }
+  ],
+  "version" : 3
+}
